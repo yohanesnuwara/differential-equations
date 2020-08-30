@@ -1,9 +1,10 @@
 # ode-to-joy
-Collections of Ordinary Differential Equation (ODE) solvers using Python 
 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/91640896-142a8880-ea4b-11ea-92fe-5d9d2bda13bd.png" width="200"/>
 </div>
+
+`ode-to-joy` is a package that consists collection of ordinary differential equations (ODE) numerical solvers using Python. Name of `ode-to-joy` is taken from Ludwig van Beethoven's musical masterpiece "Ode to Joy". 
 
 Solvers:
 * Euler
