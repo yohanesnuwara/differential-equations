@@ -6,7 +6,7 @@
 
 `ode-to-joy` is a package that consists collection of ordinary differential equations (ODE) numerical solvers using Python. Name of `ode-to-joy` is taken from Ludwig van Beethoven's musical masterpiece "Ode to Joy". 
 
-Solvers:
+ODE is an important subject to engineering students, and numerical ODE solver is useful to solve most ODEs that appear in engineering problems. Below is the list of available solvers:
 * Euler
 * Modified Euler
 * Midpoint
