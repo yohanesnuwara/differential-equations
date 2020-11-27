@@ -8,6 +8,7 @@ def heun(x1, x2, y0, h, iteration):
   h: stepsize
   iteration: how many times will be iterated
   """
+  import numpy as np
 
   # initial condition
   y = y0
