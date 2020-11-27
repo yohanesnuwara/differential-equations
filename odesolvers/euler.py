@@ -1,4 +1,4 @@
-def euler(x1, x2, y0, h):
+def euler(dfdx, x1, x2, y0, h):
   """
   Euler method to solve ODE at domain x [x1,x2] 
   
