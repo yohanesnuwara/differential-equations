@@ -7,6 +7,7 @@ def modified_euler(x1, x2, y0, h):
   y0: y at initial condition (x0 = 0)
   h: stepsize
   """
+  import numpy as np
 
   # initial condition
   y = y0
