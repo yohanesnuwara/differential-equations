@@ -1,4 +1,6 @@
-# ode-to-joy
+# Differential Equations and Simulations
+
+<!--
 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/91640896-142a8880-ea4b-11ea-92fe-5d9d2bda13bd.png" width="200"/>
